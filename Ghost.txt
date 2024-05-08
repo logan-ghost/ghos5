@@ -1,6 +1,6 @@
 import robocode.*;
 
-public class MeuRobo extends Robot {
+public class Ghost extends Robot {
     
     public void run() {
         setColors(java.awt.Color.cyan, java.awt.Color.cyan, java.awt.Color.cyan); // Define a cor do robô para ciano
